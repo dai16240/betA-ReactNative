@@ -45,7 +45,7 @@ class PredictionsScreen extends React.Component {
     this.setState({
       loading: true
     })
-    fetch('http://172.104.128.96/predictions')
+    fetch('http://beta.computer/predictions')
     .then((response) => response.json())
     .then((responseJson) => {
       this.setState({
