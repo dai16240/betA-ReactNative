@@ -1,7 +1,7 @@
 # [betA](https://beta-v2.herokuapp.com/)
-betA app for Android, made with React-Native.
+betA app for Android, built with React-Native.
 
-Uses [custom api](https://beta-v2.herokuapp.com/), made in Flask/Python.
+Uses [custom api](https://beta-v2.herokuapp.com/), built with Flask/Python.
 
 
 ### Screenshots
